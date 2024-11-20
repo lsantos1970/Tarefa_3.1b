@@ -7,6 +7,9 @@
         <mxCell id="m83YUFXcnTBgg-Xw34LD-7" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="340" y="50" width="430" height="610" as="geometry" />
         </mxCell>
+        <mxCell id="m83YUFXcnTBgg-Xw34LD-10" value="EXPERTS" style="whiteSpace=wrap;html=1;aspect=fixed;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="420" y="480" width="120" height="120" as="geometry" />
+        </mxCell>
         <mxCell id="m83YUFXcnTBgg-Xw34LD-3" value="GESTÃO DO ANIMALEC" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="340" y="50" width="430" height="60" as="geometry" />
         </mxCell>
@@ -22,20 +25,32 @@
         <mxCell id="m83YUFXcnTBgg-Xw34LD-9" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="570" y="340" width="120" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="m83YUFXcnTBgg-Xw34LD-10" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="420" y="480" width="120" height="120" as="geometry" />
-        </mxCell>
-        <mxCell id="m83YUFXcnTBgg-Xw34LD-11" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="m83YUFXcnTBgg-Xw34LD-11" value="SPONSORS" style="whiteSpace=wrap;html=1;aspect=fixed;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="565" y="480" width="120" height="120" as="geometry" />
-        </mxCell>
-        <mxCell id="eo3rcvgwL60pliEYBKVr-2" value="" style="dashed=0;outlineConnect=0;html=1;align=center;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;shape=mxgraph.weblogos.edmodo;fillColor=#276CB0;strokeColor=none" vertex="1" parent="1">
-          <mxGeometry x="440" y="503.1" width="69.2" height="73.8" as="geometry" />
         </mxCell>
         <mxCell id="eo3rcvgwL60pliEYBKVr-3" value="" style="shape=mxgraph.signs.nature.sun_3;html=1;pointerEvents=1;fillColor=#000000;strokeColor=none;verticalLabelPosition=bottom;verticalAlign=top;align=center;sketch=0;" vertex="1" parent="1">
           <mxGeometry x="540" y="130" width="30.8" height="30" as="geometry" />
         </mxCell>
         <mxCell id="eo3rcvgwL60pliEYBKVr-4" value="" style="shape=mxgraph.signs.travel.cashier;html=1;pointerEvents=1;fillColor=#000000;strokeColor=none;verticalLabelPosition=bottom;verticalAlign=top;align=center;sketch=0;" vertex="1" parent="1">
-          <mxGeometry x="575.5" y="490.5" width="99" height="99" as="geometry" />
+          <mxGeometry x="587.75" y="520" width="74.5" height="69.5" as="geometry" />
+        </mxCell>
+        <mxCell id="eo3rcvgwL60pliEYBKVr-13" value="" style="shape=link;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="100" relative="1" as="geometry">
+            <mxPoint x="422" y="144.5" as="sourcePoint" />
+            <mxPoint x="522" y="144.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eo3rcvgwL60pliEYBKVr-14" value="" style="shape=link;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="100" relative="1" as="geometry">
+            <mxPoint x="590" y="144.5" as="sourcePoint" />
+            <mxPoint x="690" y="144.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eo3rcvgwL60pliEYBKVr-2" value="" style="dashed=0;outlineConnect=0;html=1;align=center;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;shape=mxgraph.weblogos.edmodo;fillColor=#276CB0;strokeColor=none" vertex="1" parent="1">
+          <mxGeometry x="445" y="520" width="70" height="66.9" as="geometry" />
+        </mxCell>
+        <mxCell id="eo3rcvgwL60pliEYBKVr-15" value="Página principal do Back-office" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="340" y="670" width="430" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
@@ -123,6 +138,9 @@
         <mxCell id="ks8Epd7Y-wS-xR8rpnZm-27" value="REMOVER" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="644" y="527" width="90" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="wW5SO_mTUrB6BlVf34ub-1" value="Gestão dos Sponsors" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="205" y="700" width="430" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
@@ -209,6 +227,9 @@
         <mxCell id="HQD292yp1jypBV--BvA4-26" value="REMOVER" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="644" y="527" width="90" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="kvymW0WWFdvZXjUoOlbx-1" value="Gestão dos Experts" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="205" y="700" width="430" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
@@ -286,6 +307,9 @@
         <mxCell id="fSJIdTOIVTcc8c9_XNQf-35" value="No file chosen" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;align=left;" vertex="1" parent="1">
           <mxGeometry x="340" y="537.5" width="106" height="26" as="geometry" />
         </mxCell>
+        <mxCell id="wNfwI6Bkw9WjubyA3_9I-1" value="Adicionar Sponsor" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="215" y="660" width="430" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
@@ -341,6 +365,9 @@
         </mxCell>
         <mxCell id="ErUGHkwHAz6ykhK31D-9-21" value="ADICIONAR" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="220" y="460" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="M3xph09mI_huBRaiWZSx-1" value="Adicionar Expert" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="215" y="530" width="430" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
